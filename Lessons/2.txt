@@ -1,0 +1,19 @@
+Dzien: 2
+Company balance: was -- 999968498 -- now: 999968498
+Illosc pracownikow: was -- 4 -- now: 4
+Zakupiono za wszystkie dni:
+	beton: 0
+	cegla: 0
+	cement: 0
+Trzeba bylo kupic:
+	beton: 70
+	cegla: 304
+	cement: 146
+Wszystko zakupiono za dzis:
+	beton: 0
+	cegla: 0
+	cement: 0
+Zakupiono za dzis:
+	Nic nie bylo zamowione
+Zostalo pienezy do zyrzycia: 31502
+Bylo zurzyto: 0

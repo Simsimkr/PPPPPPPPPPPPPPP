@@ -1,0 +1,38 @@
+{
+    "all_finans": 1000000,
+    "all_pracowniki": 4,
+    "positions": [
+        "admin",
+        "seller",
+        "manager"
+    ],
+    "all_bought": [
+        0,
+        0,
+        0
+    ],
+    "can_buy": [
+        [
+            "beton",
+            "cegla",
+            "cement"
+        ],
+        [
+            100,
+            50,
+            200
+        ]
+    ],
+    "day": 10,
+    "to_do": {
+        "can_give": 0,
+        "money_to_use": 0,
+        "money_used": 0,
+        "need": [
+            0,
+            0,
+            0
+        ],
+        "orders": []
+    }
+}
